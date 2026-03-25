@@ -65,11 +65,7 @@ class LinkController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(link $link)
-    {
-        //
-    }
-
+ 
     /**
      * Show the form for editing the specified resource.
      */
